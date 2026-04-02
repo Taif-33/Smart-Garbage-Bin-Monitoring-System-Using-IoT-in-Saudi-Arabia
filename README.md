@@ -1,9 +1,7 @@
 # Smart Garbage Bin System Using IoT
 
-Smart Garbage Bin Monitoring System using Arduino Uno, an ultrasonic sensor, and a servo motor to provide automatic lid opening without physical contact. This project supports hygiene, smart waste management, and smart city applications in Saudi Arabia, with future potential for cloud-based monitoring and automation.
-
 ##  Overview
-This project presents a smart garbage bin system using IoT technology to solve the problem of overflowing waste bins. The system automatically opens the lid using motion detection and measures the fill level using an ultrasonic sensor.
+Smart Garbage Bin Monitoring System using Arduino Uno, an ultrasonic sensor, and a servo motor to provide automatic lid opening without physical contact. This project supports hygiene, smart waste management, and smart city applications in Saudi Arabia, with future potential for cloud-based monitoring and automation.
 
 It aims to improve waste management and support smart city solutions.
 
